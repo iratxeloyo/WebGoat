@@ -135,6 +135,8 @@
         <thymeleaf.version>3.0.14.RELEASE</thymeleaf.version>
         <pmd.version>3.15.0</pmd.version>
         <checkstyle.version>3.1.2</checkstyle.version>
+        <sonar.organization>iratxeloyo</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <modules>
